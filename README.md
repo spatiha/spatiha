@@ -18,6 +18,6 @@ Senior Data Analyst at AFS Logistics — I build analytics that change decisions
 
 My path here wasn't linear: Hotel Management → Starbucks → MBA → M.S. Business Analytics → Logistics Analytics. That hospitality background is why I sweat the details — when your job is noticing what a guest needs before they ask, you carry that into every dataset. Outside of work I'm usually exploring the city or in the kitchen, experimenting with fusion cooking and baking. Recipe development and data analysis are the same skill, honestly: iterate, measure, adjust, repeat.
 
-**Certifications:** Microsoft DP-600 (Fabric Analytics Engineer) · Alteryx Designer Core
+**Certifications:** [Microsoft DP-600 (Fabric Analytics Engineer)](https://learn.microsoft.com/api/credentials/share/en-us/spatiha/CDCEDBEB36CC3A7?sharingId=373244AEC63E0B71) · [Alteryx Designer Core](https://www.credly.com/badges/c67ffb22-5ac0-499d-af8f-f72c54464f7a)
 
 📫 [linkedin.com/in/spatiha](https://www.linkedin.com/in/spatiha)
